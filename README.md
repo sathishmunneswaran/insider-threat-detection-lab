@@ -99,13 +99,13 @@ source="WinEventLog:Microsoft-Windows-Sysmon/Operational"
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/Dashboard.png)
 
 ### Alert Configuration
-![Alert Configuration](screenshots/alert-config.png)
+![Alert Configuration](screenshots/alert-config.png.png)
 
 ### Sysmon Event Logs
-![Sysmon Logs](screenshots/sysmon-logs.png)
+![Sysmon Logs](screenshots/splunk-log-ingestion.png (2).png)
 
 ### PowerShell Detection
 ![PowerShell Detection](screenshots/powershell-detection.png)
