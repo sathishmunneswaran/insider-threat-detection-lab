@@ -105,7 +105,7 @@ source="WinEventLog:Microsoft-Windows-Sysmon/Operational"
 ![Alert Configuration](screenshots/alert-config.png.png)
 
 ### Sysmon Event Logs
-![Sysmon Logs](screenshots/splunk-log-ingestion.png (2).png)
+![Sysmon Logs](screenshots/splunk-log-ingestion.png)
 
 ### PowerShell Detection
 ![PowerShell Detection](screenshots/powershell-detection.png)
