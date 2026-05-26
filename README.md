@@ -121,3 +121,33 @@ source="WinEventLog:Microsoft-Windows-Sysmon/Operational"
 
 ### VMware Lab Setup
 ![Lab Setup](screenshots/lab-architecture.png)
+---
+## Learning Outcomes
+
+- SIEM dashboard creation
+- Windows log analysis
+- Sysmon event monitoring
+- Threat hunting techniques
+- Splunk SPL query writing
+- Alert configuration
+- MITRE ATT&CK mapping
+- SOC workflow understanding
+
+---
+
+## Future Improvements
+
+- Wazuh integration
+- Email alerting
+- Brute force attack simulation
+- Phishing detection use cases
+- Threat intelligence integration
+- Automated incident response
+
+---
+
+## Author
+
+**Sathish Muneeswaran**
+
+Cybersecurity Enthusiast | SOC Analyst Aspirant
