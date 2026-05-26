@@ -148,6 +148,6 @@ source="WinEventLog:Microsoft-Windows-Sysmon/Operational"
 
 ## Author
 
-**Sathish Muneeswaran**
+**Sathish Muneeswaran S**
 
 Cybersecurity Enthusiast | SOC Analyst Aspirant
