@@ -102,7 +102,7 @@ source="WinEventLog:Microsoft-Windows-Sysmon/Operational"
 ![Dashboard Overview](screenshots/Dashboard.png)
 
 ### Alert Configuration
-![Alert Configuration](screenshots/alert-config.png.png)
+![Alert Configuration](screenshots/alert-config.png)
 
 ### Sysmon Event Logs
 ![Sysmon Logs](screenshots/splunk-log-ingestion.png)
