@@ -96,3 +96,28 @@ source="WinEventLog:Microsoft-Windows-Sysmon/Operational"
 | T1055 | Process Injection |
 | T1047 | Windows Management Instrumentation |
 ---
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Alert Configuration
+![Alert Configuration](screenshots/alert-config.png)
+
+### Sysmon Event Logs
+![Sysmon Logs](screenshots/sysmon-logs.png)
+
+### PowerShell Detection
+![PowerShell Detection](screenshots/powershell-detection.png)
+
+### CMD Detection
+![CMD Detection](screenshots/cmd-detection.png)
+
+### Reconnaissance Detection
+![Recon Detection](screenshots/recon-detection.png)
+
+### Rare Process Detection
+![Rare Process](screenshots/rare-process.png)
+
+### VMware Lab Setup
+![Lab Setup](screenshots/lab-architecture.png)
