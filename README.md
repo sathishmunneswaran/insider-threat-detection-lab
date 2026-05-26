@@ -113,9 +113,6 @@ source="WinEventLog:Microsoft-Windows-Sysmon/Operational"
 ### CMD Detection
 ![CMD Detection](screenshots/cmd-detection.png)
 
-### Reconnaissance Detection
-![Recon Detection](screenshots/recon-detection.png)
-
 ### Rare Process Detection
 ![Rare Process](screenshots/rare-process.png)
 
